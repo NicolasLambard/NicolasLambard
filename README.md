@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1B4D3E,100:2EA44F&height=170&section=header&text=Nicolas%20Lambard&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Administrateur%20Syst%C3%A8mes%20%26%20R%C3%A9seaux&descAlignY=54&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Serveurs+Linux+et+infrastructures+virtualis%C3%A9es;Proxmox+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+Active+Directory;J'automatise+ce+qui+se+r%C3%A9p%C3%A8te&font=Fira%20Code&size=19&color=2EA44F&center=true&vCenter=true&width=520&height=45&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Serveurs+Linux+et+infrastructures+virtualis%C3%A9es;Proxmox+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+Active+Directory;J'automatise+ce+qui+se+r%C3%A9p%C3%A8te&font=Fira%20Code&size=19&color=C9D1D9&center=true&vCenter=true&width=520&height=45&pause=1200" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <br>
 
-## &nbsp;⚙️&nbsp; Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,apache,mysql&theme=dark" />
@@ -38,10 +38,10 @@
 
 <br>
 
-## &nbsp;📊&nbsp; Activité
+## Activité
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasLambard&theme=github_dark" width="80%" />
+  <img src="https://ghchart.rshah.org/2EA44F/NicolasLambard" width="96%" alt="Contributions" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 <br>
 
-## &nbsp;🛠️&nbsp; Ce que je construis
+## Ce que je construis
 
 **Serveur de jeu FiveM** — infrastructure complète sous Linux
 Réseau, base MySQL, optimisation CPU et latence, sécurisation des flux, sauvegardes et supervision.
