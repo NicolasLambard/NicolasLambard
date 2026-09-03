@@ -46,19 +46,6 @@
 
 <br>
 
-## Ce que je construis
-
-**Serveur de jeu FiveM** — infrastructure complète sous Linux
-Réseau, base MySQL, optimisation CPU et latence, sécurisation des flux, sauvegardes et supervision.
-
-**Boutique PrestaShop** — hébergement et automatisation
-Workflows déclenchés après commande : stock, emails transactionnels, documents, alertes en cas d'échec.
-
-**Indeed Scam Filter** — extension Chrome
-Écarte les annonces d'écoles qui remplissent leurs promotions, pour ne garder que les vraies offres d'alternance.
-
-<br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,40:1B4D3E,100:0D1117&height=110&section=footer" width="100%" />
 </p>
