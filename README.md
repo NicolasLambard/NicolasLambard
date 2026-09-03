@@ -1,91 +1,68 @@
-<h1 align="center">Nicolas Lambard</h1>
-<p align="center"><b>Administrateur Systèmes et Réseaux</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1B4D3E,100:2EA44F&height=170&section=header&text=Nicolas%20Lambard&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Administrateur%20Syst%C3%A8mes%20%26%20R%C3%A9seaux&descAlignY=54&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bac+4_RNCP-ENI_École_Nantes-2F3640?style=flat-square" />
-  <a href="https://nicolaslambard.fr"><img src="https://img.shields.io/badge/nicolaslambard.fr-2F3640?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nicolas-lambard"><img src="https://img.shields.io/badge/LinkedIn-2F3640?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lambard36@gmail.com"><img src="https://img.shields.io/badge/Email-2F3640?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-J'administre des serveurs Linux et des infrastructures virtualisées depuis plus de trois ans, en stage et sur mes projets personnels — de l'installation à la mise en service jusqu'au maintien en condition opérationnelle.
-
-Venant du développement, j'automatise volontiers les tâches d'exploitation qui se répètent, plutôt que de les refaire à la main.
-
----
-
-## Activité
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2EA44F/NicolasLambard" width="98%" alt="Contributions" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Serveurs+Linux+et+infrastructures+virtualis%C3%A9es;Proxmox+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+Active+Directory;J'automatise+ce+qui+se+r%C3%A9p%C3%A8te&font=Fira%20Code&size=19&color=2EA44F&center=true&vCenter=true&width=520&height=45&pause=1200" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NicolasLambard&hide_border=true&background=0D1117&stroke=2F3640&ring=2EA44F&fire=2EA44F&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="160" alt="Série de contributions" />
+  <a href="https://nicolaslambard.fr"><img src="https://img.shields.io/badge/nicolaslambard.fr-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4285F4" /></a>
+  <a href="https://linkedin.com/in/nicolas-lambard"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:lambard36@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
----
+<p align="center">
+  J'administre des serveurs Linux et des infras virtualisées depuis plus de trois ans.<br>
+  Venu du développement, j'automatise l'exploitation plutôt que de la refaire à la main.
+</p>
 
-## Compétences
+<br>
 
-| Domaine | Technologies |
-|---|---|
-| **Systèmes** | Debian · Ubuntu · Windows Server · Active Directory · systemd |
-| **Réseaux & sécurité** | TCP/IP · DNS/DHCP · VLAN · Routage · NAT · VPN · iptables/UFW · Fail2ban · SSL/TLS · Reverse proxy |
-| **Virtualisation & hébergement** | Proxmox VE · VMware · Docker · OVHcloud · CyberPanel · CloudPanel |
-| **Web & bases de données** | NGINX · Apache · PHP-FPM · MySQL · MariaDB |
-| **Supervision & sauvegarde** | Uptime Kuma · Monitoring & alerting · Journalisation · Sauvegarde & restauration · GLPI |
-| **Scripting & développement** | Bash · PowerShell · PHP · Laravel · JavaScript · React · Java · SQL · Git |
+## &nbsp;⚙️&nbsp; Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,apache,mysql&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=bash,powershell,php,laravel,js,react,java,git&theme=dark" />
+</p>
 
-## Expériences
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox_VE-0D1117?style=flat-square&logo=proxmox&logoColor=E57000" />
+  <img src="https://img.shields.io/badge/VMware-0D1117?style=flat-square&logo=vmware&logoColor=607078" />
+  <img src="https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=C0765A" />
+  <img src="https://img.shields.io/badge/Active_Directory-0D1117?style=flat-square&logo=microsoft&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/WireGuard-0D1117?style=flat-square&logo=wireguard&logoColor=88171A" />
+  <img src="https://img.shields.io/badge/Fail2ban-0D1117?style=flat-square&logo=linuxcontainers&logoColor=B22222" />
+  <img src="https://img.shields.io/badge/Uptime_Kuma-0D1117?style=flat-square&logo=uptimekuma&logoColor=5CDD8B" />
+  <img src="https://img.shields.io/badge/GLPI-0D1117?style=flat-square&logo=glpi&logoColor=F5A623" />
+</p>
 
-**Développeur et administration de serveurs** — Bob El Web, Bordeaux · *fév. 2025 – mars 2025*
+<br>
 
-Administration de VPS Linux, mise en service, certificats SSL et noms de domaine via CyberPanel et CloudPanel. Écriture d'un script PowerShell appliquant les bonnes pratiques de commit, **repris ensuite par toute l'équipe**. Développement d'applications web, routes personnalisées et génération de PDF depuis du HTML via mPDF.
+## &nbsp;📊&nbsp; Activité
 
-**Développeur, automatisation** — MBS, Paris · *mai 2024 – juin 2024*
+<p align="center">
+  <img src="https://ghchart.rshah.org/2EA44F/NicolasLambard" width="96%" alt="Contributions" />
+</p>
 
-Automatisation de la production documentaire en VBA : génération des bulletins de notes, auparavant saisis à la main chaque trimestre. Conception et maintenance de macros Excel pour le traitement et le contrôle des données, avec leur documentation.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NicolasLambard&hide_border=true&background=0D1117&stroke=1B4D3E&ring=2EA44F&fire=2EA44F&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="155" />
+</p>
 
----
+<br>
 
-## Projets
+## &nbsp;🛠️&nbsp; Ce que je construis
 
-**Serveur de jeu FiveM** — infrastructure de A à Z
-Déploiement sous Linux, configuration réseau, base MySQL personnalisée, optimisation CPU et latence, sécurisation des ports et des flux, droits d'accès, sauvegardes et supervision de la disponibilité.
+**Serveur de jeu FiveM** — infrastructure complète sous Linux
+Réseau, base MySQL, optimisation CPU et latence, sécurisation des flux, sauvegardes et supervision.
 
-**Boutique PrestaShop** — hébergement et workflows automatisés
-Installation sur serveur Linux, puis conception d'un enchaînement automatique après commande : mise à jour du stock, emails transactionnels, génération des documents et alertes en cas d'échec. Exploitation courante, sauvegardes et mises à jour de sécurité.
-
-**BDKLocation** — application web de gestion locative
-Serveur de production, nom de domaine, certificat SSL, base de données, interface d'administration avec génération automatique de contrats.
+**Boutique PrestaShop** — hébergement et automatisation
+Workflows déclenchés après commande : stock, emails transactionnels, documents, alertes en cas d'échec.
 
 **Indeed Scam Filter** — extension Chrome
-Écarte les annonces publiées par des écoles cherchant à remplir leurs promotions, pour ne laisser que les vraies offres d'alternance. Back office de gestion de la liste, déployé sur GitHub Pages et relié à une base distante via API.
+Écarte les annonces d'écoles qui remplissent leurs promotions, pour ne garder que les vraies offres d'alternance.
 
-**CopCup** — application de commande pour l'événementiel
-Développement en équipe d'une application de commande de boissons et de restauration réduisant les files d'attente. Modélisation de la base, hébergement et déploiement.
-
-**Application mobile de covoiturage**
-Mise en relation conducteurs et passagers, réservation de trajets, gestion des utilisateurs et algorithme de correspondance.
-
----
-
-## Formation
-
-| Diplôme | Établissement | Période |
-|---|---|---|
-| Administrateur Système et Réseau, Bac+4 RNCP *(alternance)* | ENI École, Nantes | 2026 – 2027 |
-| BTS SIO, option SLAM | Campus de la Futaie, Bressuire | 2023 – 2025 |
-| FSS Informatique, support et conseil digital | Lycée Gustave Flaubert, Rouen | 2021 – 2022 |
-| Baccalauréat Professionnel Commerce | Lycée Notre Dame, Elbeuf | 2018 – 2021 |
-
----
+<br>
 
 <p align="center">
-  <a href="mailto:lambard36@gmail.com"><img src="https://img.shields.io/badge/lambard36@gmail.com-2F3640?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nicolas-lambard"><img src="https://img.shields.io/badge/LinkedIn-2F3640?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://nicolaslambard.fr"><img src="https://img.shields.io/badge/nicolaslambard.fr-2F3640?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,40:1B4D3E,100:0D1117&height=110&section=footer" width="100%" />
 </p>
