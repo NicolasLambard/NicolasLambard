@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1B4D3E,100:2EA44F&height=180&section=header&text=Nicolas%20Lambard&fontColor=FFFFFF&fontSize=50&fontAlignY=34&desc=Administrateur%20Systemes%20et%20Reseaux&descAlignY=56&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Serveurs+Linux+et+infrastructures+virtualis%C3%A9es;Proxmox+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+Active+Directory;J'automatise+ce+qui+se+r%C3%A9p%C3%A8te&font=Fira%20Code&size=19&color=C9D1D9&center=true&vCenter=true&width=760&height=50&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Serveurs+Linux+et+infrastructures+virtualis%C3%A9es;Proxmox+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+Active+Directory;J'automatise+ce+qui+se+r%C3%A9p%C3%A8te&font=Fira%20Code&size=17&color=C9D1D9&center=true&vCenter=true&width=900&height=50&pause=1200" />
 </p>
 
 <p align="center">
