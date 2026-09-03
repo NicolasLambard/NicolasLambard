@@ -41,10 +41,6 @@
 ## Activité
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2EA44F/NicolasLambard" width="96%" alt="Contributions" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=NicolasLambard&hide_border=true&background=0D1117&stroke=1B4D3E&ring=2EA44F&fire=2EA44F&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="155" />
 </p>
 
