@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  J'administre des serveurs Linux et des infras virtualisées depuis plus de trois ans.<br>
-  Venu du développement, j'automatise l'exploitation plutôt que de la refaire à la main.
+  Touche-à-tout, du serveur Linux au code qui tourne dessus.<br>
+  J'aime comprendre comment les choses marchent, et automatiser tout ce qui se répète.
 </p>
 
 <br>
