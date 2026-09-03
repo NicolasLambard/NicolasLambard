@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://nicolaslambard.fr"><img src="https://img.shields.io/badge/nicolaslambard.fr-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4285F4" /></a>
   <a href="https://linkedin.com/in/nicolas-lambard"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:lambard36@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
 <p align="center">
@@ -34,14 +33,6 @@
   <img src="https://img.shields.io/badge/Fail2ban-0D1117?style=flat-square&logo=linuxcontainers&logoColor=B22222" />
   <img src="https://img.shields.io/badge/Uptime_Kuma-0D1117?style=flat-square&logo=uptimekuma&logoColor=5CDD8B" />
   <img src="https://img.shields.io/badge/GLPI-0D1117?style=flat-square&logo=glpi&logoColor=F5A623" />
-</p>
-
-<br>
-
-## Activité
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NicolasLambard&hide_border=true&background=0D1117&stroke=1B4D3E&ring=2EA44F&fire=2EA44F&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="155" />
 </p>
 
 <br>
