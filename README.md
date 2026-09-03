@@ -41,7 +41,7 @@
 ## &nbsp;📊&nbsp; Activité
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2EA44F/NicolasLambard" width="96%" alt="Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasLambard&theme=github_dark" width="80%" />
 </p>
 
 <p align="center">
