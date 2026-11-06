@@ -21,7 +21,7 @@
 ## 🎄 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,nodejs,mysql,bash,powershell,php,laravel,js,react,java,git&theme=dark&perline=8" width="60%" />
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,bash,powershell,git,php,laravel,nodejs,express,py,java,lua,mysql,postgres,html,css,js,ts,react,nextjs,tailwind,vite,sqlite&theme=dark&perline=9" width="60%" />
 </p>
 
 <p align="center">
@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/Fail2ban-B3001B?style=flat-square&logo=linuxcontainers&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Uptime_Kuma-0F2A1D?style=flat-square&logo=uptimekuma&logoColor=F4D35E" />
   <img src="https://img.shields.io/badge/GLPI-B3001B?style=flat-square&logo=glpi&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Livewire-0F2A1D?style=flat-square&logo=livewire&logoColor=F4D35E" />
+  <img src="https://img.shields.io/badge/GSAP-B3001B?style=flat-square&logo=greensock&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Let's_Encrypt-0F2A1D?style=flat-square&logo=letsencrypt&logoColor=F4D35E" />
 </p>
 
 <br>
