@@ -21,7 +21,7 @@
 ## 🎄 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,nodejs,mysql,bash,powershell,php,laravel,js,react,java,git&theme=dark&perline=8" width="80%" />
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,nodejs,mysql,bash,powershell,php,laravel,js,react,java,git&theme=dark&perline=8" width="60%" />
 </p>
 
 <p align="center">
