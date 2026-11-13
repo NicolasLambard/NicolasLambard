@@ -22,7 +22,9 @@
 <!-- STACK -->
 <h2 align="center">🎄 Stack technique</h2>
 
-<h4 align="center">Infrastructure &amp; systèmes</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE_%26_SYST%C3%88MES-B3202A?style=for-the-badge" alt="Infrastructure & systèmes" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,bash,powershell,git&theme=dark" alt="Debian, Ubuntu, Linux, Windows, Docker, NGINX, Bash, PowerShell, Git" />
@@ -37,7 +39,9 @@
   <img src="https://img.shields.io/badge/Fail2ban-14532D?style=flat-square" alt="Fail2ban" />
 </p>
 
-<h4 align="center">Développement</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/D%C3%89VELOPPEMENT-B3202A?style=for-the-badge" alt="Développement" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,java,lua,html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=7" alt="PHP, Laravel, Node.js, Python, Java, Lua, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Vite" />
@@ -47,7 +51,9 @@
   <img src="https://img.shields.io/badge/Livewire-14532D?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
-<h4 align="center">Bases de données</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/BASES_DE_DONN%C3%89ES-B3202A?style=for-the-badge" alt="Bases de données" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="MySQL, PostgreSQL, SQLite" />
@@ -57,7 +63,9 @@
   <img src="https://img.shields.io/badge/MariaDB-14532D?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
 </p>
 
-<h4 align="center">Supervision &amp; outils</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/SUPERVISION_%26_OUTILS-B3202A?style=for-the-badge" alt="Supervision & outils" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Uptime_Kuma-14532D?style=flat-square&logo=uptimekuma&logoColor=white" alt="Uptime Kuma" />
