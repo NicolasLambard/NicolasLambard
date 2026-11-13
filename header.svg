@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Nicolas Lambard, Administrateur Systèmes et Réseaux">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2B1E"/>
+      <stop offset="1" stop-color="#14532D"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="260" rx="18"/></clipPath>
+    <style>
+      .snow circle { fill: #FFFFFF; opacity: .55; animation: fall 9s linear infinite; }
+      .snow .b { animation-duration: 13s; opacity: .35; }
+      .snow .c { animation-duration: 17s; opacity: .25; }
+      @keyframes fall { from { transform: translateY(-40px); } to { transform: translateY(300px); } }
+      .bulb { animation: glow 2.4s ease-in-out infinite; }
+      .bulb.alt { animation-delay: 1.2s; }
+      @keyframes glow { 0%, 100% { opacity: 1; } 50% { opacity: .45; } }
+      .name { font: 700 60px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; letter-spacing: .5px; }
+      .role { font: 500 21px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #F2DDA4; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+
+    <g class="snow">
+      <circle cx="60" cy="20" r="3"/><circle class="b" cx="140" cy="90" r="2"/><circle class="c" cx="215" cy="40" r="2.5"/>
+      <circle cx="290" cy="150" r="2"/><circle class="b" cx="350" cy="10" r="3"/><circle class="c" cx="430" cy="110" r="2"/>
+      <circle cx="505" cy="60" r="2.5"/><circle class="b" cx="570" cy="180" r="2"/><circle class="c" cx="640" cy="30" r="3"/>
+      <circle cx="715" cy="130" r="2"/><circle class="b" cx="780" cy="70" r="2.5"/><circle class="c" cx="850" cy="5" r="2"/>
+      <circle cx="915" cy="160" r="3"/><circle class="b" cx="985" cy="50" r="2"/><circle class="c" cx="1050" cy="120" r="2.5"/>
+      <circle cx="1110" cy="25" r="2"/><circle class="b" cx="1165" cy="95" r="3"/><circle class="c" cx="30" cy="140" r="2"/>
+      <circle cx="390" cy="200" r="2"/><circle class="b" cx="680" cy="210" r="2.5"/><circle class="c" cx="1010" cy="200" r="2"/>
+    </g>
+
+    <!-- guirlande -->
+    <path d="M0,10 Q75,44 150,10 Q225,44 300,10 Q375,44 450,10 Q525,44 600,10 Q675,44 750,10 Q825,44 900,10 Q975,44 1050,10 Q1125,44 1200,10" fill="none" stroke="#06170F" stroke-width="2.5"/>
+    <g>
+      <circle class="bulb" cx="75" cy="33" r="7" fill="#D63B45"/>
+      <circle class="bulb alt" cx="225" cy="33" r="7" fill="#F2C14E"/>
+      <circle class="bulb" cx="375" cy="33" r="7" fill="#D63B45"/>
+      <circle class="bulb alt" cx="525" cy="33" r="7" fill="#F2C14E"/>
+      <circle class="bulb" cx="675" cy="33" r="7" fill="#D63B45"/>
+      <circle class="bulb alt" cx="825" cy="33" r="7" fill="#F2C14E"/>
+      <circle class="bulb" cx="975" cy="33" r="7" fill="#D63B45"/>
+      <circle class="bulb alt" cx="1125" cy="33" r="7" fill="#F2C14E"/>
+    </g>
+
+    <text class="name" x="600" y="142" text-anchor="middle">Nicolas Lambard</text>
+    <rect x="570" y="164" width="60" height="3" rx="1.5" fill="#D63B45"/>
+    <text class="role" x="600" y="203" text-anchor="middle">ADMINISTRATEUR SYSTÈMES ET RÉSEAUX</text>
+  </g>
+</svg>
