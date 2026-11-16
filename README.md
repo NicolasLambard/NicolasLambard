@@ -22,14 +22,40 @@
 <!-- CE QUE JE FAIS -->
 <h2 align="center">Ce que je fais</h2>
 
-<p align="center">
-  Installation et administration de serveurs Linux et Windows Server, physiques ou virtualisés<br>
-  Sécurisation et durcissement des serveurs, des accès et des services exposés<br>
-  Réseau, DNS, certificats et passage en HTTPS<br>
-  Développement d'applis web, desktop et mobiles, du back-end à l'interface<br>
-  Rétro-ingénierie de binaires, de jeux Unity et d'applis Android<br>
-  Automatisation en Bash, PowerShell et Python, rédaction de procédures
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Systèmes</b><br>
+      <sub>J'installe et je maintiens des serveurs Linux et Windows Server, sur du matériel dédié ou en VM sous Proxmox et VMware.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Sécurité</b><br>
+      <sub>Pare-feu, VPN, accès SSH limités, Fail2ban, sauvegardes chiffrées. Je ferme tout ce qui n'a pas besoin d'être ouvert.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Réseau et web</b><br>
+      <sub>DNS, certificats Let's Encrypt qui se renouvellent seuls, passage en HTTPS, et Wireshark quand le trafic fait des siennes.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Développement</b><br>
+      <sub>Applis web en Laravel et Next.js, desktop en Electron, TV et mobile en Kotlin. Du back-end jusqu'à l'interface.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Rétro-ingénierie</b><br>
+      <sub>J'ouvre des binaires, des jeux Unity IL2CPP et des applis Android avec Ghidra pour comprendre comment ils marchent.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Automatisation</b><br>
+      <sub>Des scripts Bash, PowerShell et Python pour tout ce qui se répète, et des procédures écrites pour que d'autres puissent reprendre.</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br>
 
