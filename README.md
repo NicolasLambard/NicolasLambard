@@ -22,40 +22,21 @@
 <!-- CE QUE JE FAIS -->
 <h2 align="center">Ce que je fais</h2>
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Systèmes</b><br>
-      <sub>J'installe et je maintiens des serveurs Linux et Windows Server, sur du matériel dédié ou en VM sous Proxmox et VMware.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Sécurité</b><br>
-      <sub>Pare-feu, VPN, accès SSH limités, Fail2ban, sauvegardes chiffrées. Je ferme tout ce qui n'a pas besoin d'être ouvert.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Réseau et web</b><br>
-      <sub>DNS, certificats Let's Encrypt qui se renouvellent seuls, passage en HTTPS, et Wireshark quand le trafic fait des siennes.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Développement</b><br>
-      <sub>Applis web en Laravel et Next.js, desktop en Electron, TV et mobile en Kotlin. Du back-end jusqu'à l'interface.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Rétro-ingénierie</b><br>
-      <sub>J'ouvre des binaires, des jeux Unity IL2CPP et des applis Android avec Ghidra pour comprendre comment ils marchent.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Automatisation</b><br>
-      <sub>Des scripts Bash, PowerShell et Python pour tout ce qui se répète, et des procédures écrites pour que d'autres puissent reprendre.</sub>
-    </td>
-  </tr>
-</table>
-</div>
+```console
+nicolas@serveur:~$ whoami
+Nicolas Lambard, administrateur systèmes et réseaux
+
+nicolas@serveur:~$ cat ce-que-je-fais.txt
+Systèmes          serveurs Linux et Windows Server, en dédié ou en VM (Proxmox, VMware)
+Sécurité          pare-feu, VPN, accès SSH limités, Fail2ban, sauvegardes chiffrées
+Réseau et web     DNS, certificats Let's Encrypt automatiques, HTTPS, Wireshark
+Développement     web (Laravel, Next.js), desktop (Electron), TV et mobile (Kotlin)
+Reverse           binaires, jeux Unity IL2CPP et applis Android (Ghidra, REA)
+Automatisation    Bash, PowerShell et Python pour tout ce qui se répète
+
+nicolas@serveur:~$ uptime
+toujours en train d'apprendre quelque chose
+```
 
 <br>
 
