@@ -22,21 +22,19 @@
 <!-- CE QUE JE FAIS -->
 <h2 align="center">Ce que je fais</h2>
 
-```console
-nicolas@serveur:~$ whoami
-Nicolas Lambard, administrateur systèmes et réseaux
+<p align="center">
+  <img src="https://img.shields.io/badge/SYST%C3%88MES-14532D?style=for-the-badge&logo=linux&logoColor=white" alt="Systèmes" />
+  <img src="https://img.shields.io/badge/S%C3%89CURIT%C3%89-B3202A?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Sécurité" />
+  <img src="https://img.shields.io/badge/R%C3%89SEAU-14532D?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Réseau" />
+  <br>
+  <img src="https://img.shields.io/badge/D%C3%89VELOPPEMENT-B3202A?style=for-the-badge&logo=git&logoColor=white" alt="Développement" />
+  <img src="https://img.shields.io/badge/R%C3%89TRO--ING%C3%89NIERIE-14532D?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iNi41Ii8+PHBhdGggZD0iTTE1IDE1bDYuNSA2LjUiLz48L3N2Zz4=&logoColor=white" alt="Rétro-ingénierie" />
+  <img src="https://img.shields.io/badge/AUTOMATISATION-B3202A?style=for-the-badge&logo=gnubash&logoColor=white" alt="Automatisation" />
+</p>
 
-nicolas@serveur:~$ cat ce-que-je-fais.txt
-Systèmes          serveurs Linux et Windows Server, en dédié ou en VM (Proxmox, VMware)
-Sécurité          pare-feu, VPN, accès SSH limités, Fail2ban, sauvegardes chiffrées
-Réseau et web     DNS, certificats Let's Encrypt automatiques, HTTPS, Wireshark
-Développement     web (Laravel, Next.js), desktop (Electron), TV et mobile (Kotlin)
-Reverse           binaires, jeux Unity IL2CPP et applis Android (Ghidra, REA)
-Automatisation    Bash, PowerShell et Python pour tout ce qui se répète
-
-nicolas@serveur:~$ uptime
-toujours en train d'apprendre quelque chose
-```
+<p align="center">
+  Du serveur jusqu'à l'appli, j'installe, je sécurise, je développe et j'automatise.
+</p>
 
 <br>
 
