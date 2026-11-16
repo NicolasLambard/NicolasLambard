@@ -33,53 +33,129 @@
 
 <br>
 
-<!-- COMPETENCES -->
-<h2 align="center">Compétences</h2>
+<!-- STACK -->
+<h2 align="center">Stack technique</h2>
 
-<div align="center">
-<table>
-  <tr>
-    <td><b>Systèmes</b></td>
-    <td><code>Debian</code> <code>Ubuntu</code> <code>Windows Server 2022</code> <code>Active Directory</code> <code>Comptes, groupes et UAC</code> <code>Permissions NTFS</code> <code>Bureau à distance (RDP)</code> <code>Proxmox VE</code> <code>VMware</code> <code>Docker</code> <code>Serveurs dédiés OVHcloud</code></td>
-  </tr>
-  <tr>
-    <td><b>Web et services</b></td>
-    <td><code>Apache</code> <code>NGINX</code> <code>IIS 10</code> <code>PHP-FPM</code> <code>systemd</code> <code>pm2</code></td>
-  </tr>
-  <tr>
-    <td><b>Réseau</b></td>
-    <td><code>DNS (A, NS, TTL)</code> <code>Cloudflare</code> <code>API OVHcloud et Cloudflare</code> <code>Agrégation LACP</code> <code>WireGuard</code> <code>OpenVPN</code> <code>OpenSSH / SFTP</code> <code>Wireshark</code></td>
-  </tr>
-  <tr>
-    <td><b>Sécurité</b></td>
-    <td><code>nftables / ufw</code> <code>Pare-feu Windows Defender</code> <code>Edge Network Firewall OVHcloud</code> <code>Fail2ban</code> <code>CrowdSec</code> <code>Durcissement Windows et Linux</code> <code>Moindre privilège</code> <code>Sauvegardes chiffrées</code></td>
-  </tr>
-  <tr>
-    <td><b>Certificats et TLS</b></td>
-    <td><code>Let's Encrypt (ACME, dns-01)</code> <code>Certify The Web</code> <code>HTTPS, SNI et HSTS</code> <code>Qualys SSL Labs</code> <code>IIS Crypto</code></td>
-  </tr>
-  <tr>
-    <td><b>Rétro-ingénierie</b></td>
-    <td><code>Ghidra</code> <a href="https://github.com/morluto/rea"><code>REA</code></a> <code>Wireshark</code> <code>Unity IL2CPP</code> <code>Cpp2IL</code> <code>ARM64</code> <code>ADB</code> <code>Analyse mémoire</code> <code>Windows Driver Kit</code></td>
-  </tr>
-  <tr>
-    <td><b>Langages</b></td>
-    <td><code>Bash</code> <code>PowerShell</code> <code>Python</code> <code>PHP</code> <code>JavaScript</code> <code>TypeScript</code> <code>Java</code> <code>Kotlin</code> <code>C</code> <code>C++</code> <code>C#</code> <code>Lua</code></td>
-  </tr>
-  <tr>
-    <td><b>Frameworks</b></td>
-    <td><code>Laravel</code> <code>Livewire</code> <code>Node.js</code> <code>React</code> <code>Next.js</code> <code>Tailwind</code> <code>Vite</code> <code>Electron</code> <code>Compose Multiplatform</code></td>
-  </tr>
-  <tr>
-    <td><b>Bases de données</b></td>
-    <td><code>MySQL</code> <code>MariaDB</code> <code>PostgreSQL</code> <code>SQLite</code></td>
-  </tr>
-  <tr>
-    <td><b>Outils</b></td>
-    <td><code>Git</code> <code>Uptime Kuma</code> <code>GLPI</code> <code>FileZilla</code> <code>WinSCP</code></td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYST%C3%88MES_%26_SERVEURS-B3202A?style=for-the-badge" alt="Systèmes & serveurs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows,docker,nginx,bash,powershell,git&theme=dark" alt="Debian, Ubuntu, Linux, Windows, Docker, NGINX, Bash, PowerShell, Git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server_2022-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="Windows Server 2022" />
+  <img src="https://img.shields.io/badge/Active_Directory-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/IIS_10-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="IIS 10" />
+  <img src="https://img.shields.io/badge/Bureau_%C3%A0_distance_(RDP)-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="Bureau à distance (RDP)" />
+  <img src="https://img.shields.io/badge/Permissions_NTFS-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="Permissions NTFS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache-14532D?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/PHP--FPM-14532D?style=flat-square&logo=php&logoColor=white" alt="PHP-FPM" />
+  <img src="https://img.shields.io/badge/systemd-14532D?style=flat-square&logo=linux&logoColor=white" alt="systemd" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-14532D?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox VE" />
+  <img src="https://img.shields.io/badge/VMware-14532D?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/OVHcloud-14532D?style=flat-square&logo=ovh&logoColor=white" alt="OVHcloud" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R%C3%89SEAU-B3202A?style=for-the-badge" alt="Réseau" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DNS-14532D?style=flat-square" alt="DNS" />
+  <img src="https://img.shields.io/badge/Cloudflare-14532D?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Agr%C3%A9gation_LACP-14532D?style=flat-square" alt="Agrégation LACP" />
+  <img src="https://img.shields.io/badge/WireGuard-14532D?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/OpenVPN-14532D?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/OpenSSH_%2F_SFTP-14532D?style=flat-square&logo=gnubash&logoColor=white" alt="OpenSSH / SFTP" />
+  <img src="https://img.shields.io/badge/Wireshark-14532D?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/S%C3%89CURIT%C3%89_%26_CERTIFICATS-B3202A?style=for-the-badge" alt="Sécurité & certificats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/nftables_%2F_ufw-14532D?style=flat-square&logo=linux&logoColor=white" alt="nftables / ufw" />
+  <img src="https://img.shields.io/badge/Pare--feu_Windows-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="Pare-feu Windows" />
+  <img src="https://img.shields.io/badge/Edge_Network_Firewall-14532D?style=flat-square&logo=ovh&logoColor=white" alt="Edge Network Firewall OVHcloud" />
+  <img src="https://img.shields.io/badge/Fail2ban-14532D?style=flat-square&logo=linux&logoColor=white" alt="Fail2ban" />
+  <img src="https://img.shields.io/badge/CrowdSec-14532D?style=flat-square" alt="CrowdSec" />
+  <img src="https://img.shields.io/badge/Durcissement_Windows_%26_Linux-14532D?style=flat-square" alt="Durcissement Windows & Linux" />
+  <img src="https://img.shields.io/badge/Sauvegardes_chiffr%C3%A9es-14532D?style=flat-square" alt="Sauvegardes chiffrées" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Let%27s_Encrypt_(ACME)-14532D?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt (ACME)" />
+  <img src="https://img.shields.io/badge/Certify_The_Web-14532D?style=flat-square&logo=letsencrypt&logoColor=white" alt="Certify The Web" />
+  <img src="https://img.shields.io/badge/HTTPS_%C2%B7_SNI_%C2%B7_HSTS-14532D?style=flat-square" alt="HTTPS, SNI, HSTS" />
+  <img src="https://img.shields.io/badge/Qualys_SSL_Labs-14532D?style=flat-square&logo=qualys&logoColor=white" alt="Qualys SSL Labs" />
+  <img src="https://img.shields.io/badge/IIS_Crypto-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="IIS Crypto" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R%C3%89TRO--ING%C3%89NIERIE-B3202A?style=for-the-badge" alt="Rétro-ingénierie" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ghidra-14532D?style=flat-square" alt="Ghidra" />
+  <a href="https://github.com/morluto/rea"><img src="https://img.shields.io/badge/REA-14532D?style=flat-square&logo=github&logoColor=white" alt="REA" /></a>
+  <img src="https://img.shields.io/badge/Wireshark-14532D?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Unity_IL2CPP-14532D?style=flat-square&logo=unity&logoColor=white" alt="Unity IL2CPP" />
+  <img src="https://img.shields.io/badge/Cpp2IL-14532D?style=flat-square&logo=unity&logoColor=white" alt="Cpp2IL" />
+  <img src="https://img.shields.io/badge/ARM64-14532D?style=flat-square&logo=arm&logoColor=white" alt="ARM64" />
+  <img src="https://img.shields.io/badge/ADB-14532D?style=flat-square&logo=android&logoColor=white" alt="ADB" />
+  <img src="https://img.shields.io/badge/Analyse_m%C3%A9moire-14532D?style=flat-square" alt="Analyse mémoire" />
+  <img src="https://img.shields.io/badge/Windows_Driver_Kit-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="Windows Driver Kit" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/D%C3%89VELOPPEMENT-B3202A?style=for-the-badge" alt="Développement" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,java,kotlin,c,cpp,cs,lua,html,css,js,ts,react,nextjs,tailwind,vite,electron,discordjs&theme=dark&perline=10" alt="PHP, Laravel, Node.js, Python, Java, Kotlin, C, C++, C#, Lua, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Vite, Electron, Discord.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Livewire-14532D?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/Compose_Multiplatform-14532D?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform" />
+  <img src="https://img.shields.io/badge/Android_%2F_Fire_TV-14532D?style=flat-square&logo=android&logoColor=white" alt="Android / Fire TV" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BASES_DE_DONN%C3%89ES-B3202A?style=for-the-badge" alt="Bases de données" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="MySQL, PostgreSQL, SQLite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-14532D?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SUPERVISION_%26_OUTILS-B3202A?style=for-the-badge" alt="Supervision & outils" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Uptime_Kuma-14532D?style=flat-square&logo=uptimekuma&logoColor=white" alt="Uptime Kuma" />
+  <img src="https://img.shields.io/badge/GLPI-14532D?style=flat-square" alt="GLPI" />
+  <img src="https://img.shields.io/badge/pm2-14532D?style=flat-square&logo=pm2&logoColor=white" alt="pm2" />
+  <img src="https://img.shields.io/badge/FileZilla-14532D?style=flat-square&logo=filezilla&logoColor=white" alt="FileZilla" />
+  <img src="https://img.shields.io/badge/WinSCP-14532D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==&logoColor=white" alt="WinSCP" />
+</p>
 
 <br>
 
